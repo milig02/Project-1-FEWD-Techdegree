@@ -25,7 +25,7 @@
   
   .main-nav {
     width: 100%;
-    background: black;
+    background: #000000;
     min-height: 30px;
     padding: 10px;
     position: fixed;
@@ -57,7 +57,7 @@
   
   header {
     text-align: center;
-    background: url('images/Montreal.jpg') no-repeat top center ;
+    background: url('images/montreal.jpg') no-repeat top center ;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
@@ -78,7 +78,7 @@
   }
   .tag {
     background-color: #efefef;
-    color: black;
+    color: #000000;
     padding: 10px;
     border-radius: 5px;
     display: table;
@@ -99,7 +99,7 @@
     transition: all .5s;
   }
   .card:hover {
-    border-color: black;
+    border-color: #000000;
   }
   
   ul.skills {
@@ -110,14 +110,14 @@
   .skills li {
     border-radius: 6px;
     display: inline-block;
-    background: black;
+    background: #000000;
     color: white;
     padding: 5px 5px;
     margin: 2px;
   }
   
   .skills li:nth-child(odd) {
-    background: #black;
+    background: #000000;
   }
   
   footer {
